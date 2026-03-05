@@ -21,6 +21,7 @@ jobs:
             const prNumber = context.payload.pull_request.number;
             const owner = context.repo.owner;
             const repo = context.repo.repo;
+            const pr = context.payload.pull_request;
 
             let page = 1;
             let oversized = [];
@@ -39,10 +40,20 @@ jobs:
 
               for (const file of files) {
                 // 只检查新增或修改文件
-                if (["added", "modified", "renamed", "copied"].includes(file.status)) {
-                  if (file.size > MAX_SIZE) {
-                    oversized.push(`- ${file.filename} (${file.size} bytes)`);
-                  }
+                if (!["added","modified","renamed","copied"].includes(file.status))
+                  continue;
+
+                const content = await github.rest.repos.getContent({
+                  owner: pr.head.repo.owner.login,
+                  repo: pr.head.repo.name,
+                  path: file.filename,
+                  ref: pr.head.sha
+                });
+
+                const size = content.data.size;
+
+                if (size > MAX_SIZE) {
+                  oversized.push(`- ${file.filename} (${size} bytes)`);
                 }
               }
 
