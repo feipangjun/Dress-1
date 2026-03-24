@@ -11,8 +11,8 @@
 没怎么变化的估计还是我女装的习惯吧hhhhhhhh<br>
 
 2025年，我开始学日语了，同年12.7参加了jlpt，不为什么，当个兴趣学罢了<br>
-<img src="./attachments/results.jpg" width="500x"><br>
-当然个人信息得保护好<img src="./attachments/respect.webp" width="20x"><br>
+<img src="./attachments/results_clean.jpg" width="500x"><br>
+当然个人信息得保护好<img src="./attachments/respect_clean.webp" width="20x"><br>
 
 三年过去不知道我的女装水平有没有进步<br>
 想想要不要我也搭一个个人博客呢，有没有人会点进来也不知道hhhhhh<br>
@@ -28,18 +28,18 @@
 
 <details>
 <summary>点击展开~~</summary>
-<img src="./2026_1st.webp" width="25%">
-<img src="./2026_2nd.webp" width="25%">
-<img src="./2026_3rd.webp" width="25%">
-<img src="./2026_4th.webp" width="25%">
-<img src="./2026_5th.webp" width="25%">
-<img src="./2026_6th.webp" width="25%">
-<img src="./2026_7th.webp" width="25%">
-<img src="./2026_8th.webp" width="25%">
-<img src="./2026_9th.webp" width="25%">
-<img src="./2026_10th.webp" width="25%">
-<img src="./2026_11th.webp" width="25%">
-<img src="./2026_12th.webp" width="25%">
+<img src="./2026_1st_clean.jpg" width="25%">
+<img src="./2026_2nd_clean.webp" width="25%">
+<img src="./2026_3rd_clean.webp" width="25%">
+<img src="./2026_4th_clean.webp" width="25%">
+<img src="./2026_5th_clean.webp" width="25%">
+<img src="./2026_6th_clean.webp" width="25%">
+<img src="./2026_7th_clean.webp" width="25%">
+<img src="./2026_8th_clean.webp" width="25%">
+<img src="./2026_9th_clean.webp" width="25%">
+<img src="./2026_10th_clean.webp" width="25%">
+<img src="./2026_11th_clean.webp" width="25%">
+<img src="./2026_12th_clean.webp" width="25%">
 </details>
 やっぱかわいい服を着ると写真を撮りたくなるよね～<br>
 头发是真发捏
